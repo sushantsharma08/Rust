@@ -1,0 +1,1 @@
+{"rustc":16796367574960704735,"features":"","declared_features":"","target":0,"profile":0,"path":0,"deps":[[2643474798739151983,"build_script_build",false,2403161630157312229]],"local":[{"RerunIfChanged":{"output":"debug/build/avr-hal-generic-8168c7514edded32/output","paths":["build.rs"]}}],"rustflags":[],"metadata":0,"config":0,"compile_kind":0}

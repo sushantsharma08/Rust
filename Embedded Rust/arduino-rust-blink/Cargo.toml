@@ -1,0 +1,9 @@
+[package]
+name = "arduino-rust-blink"
+version = "0.1.0"
+
+[dependencies]
+panic-halt = "0.2.0"
+[dependencies.arduino-hal]
+git="https://github.com/Rahix/avr-hal"
+rev="afdadeb"
